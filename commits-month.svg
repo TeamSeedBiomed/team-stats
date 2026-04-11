@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
-  <rect width="600" height="120" fill="#ffffff" rx="8"/>
-  <text x="300" y="52" text-anchor="middle" font-family="sans-serif"
-        font-size="14" font-weight="bold" fill="#013f54">Commits — April 2026</text>
-  <text x="300" y="74" text-anchor="middle" font-family="sans-serif"
-        font-size="12" fill="#667672">No commits this month</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="108">
+  <rect width="600" height="108" fill="#ffffff" rx="8"/>
+  <text x="16" y="36" font-family="sans-serif" font-size="14"
+        font-weight="bold" fill="#013f54">Commits — April 2026</text>
+  <text x="120" y="76" text-anchor="end" font-family="monospace" font-size="12" fill="#667672">Sheraton</text><rect x="128" y="60" width="416" height="22" fill="#059598" rx="3"/><text x="550" y="76" font-family="monospace" font-size="12" fill="#013f54">1</text>
+  <text x="16" y="98" font-family="sans-serif" font-size="10"
+        fill="#bbbbbb">Updated: 2026-04-11 04:55 UTC</text>
 </svg>
